@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level, interpreted programming language."
+    },
+    {
+        "question": "What is JSON?",
+        "answer": "JSON stands for JavaScript Object Notation, a lightweight data-interchange format."
+    },
+    {
+        "question": "What is AI?",
+        "answer": "AI stands for Artificial Intelligence, which enables machines to mimic human behavior."
+    },
+    {
+        "question": "What is a variable?",
+        "answer": "A variable is a name that refers to a value stored in memory."
+    },
+    {
+        "question": "What does CPU stand for?",
+        "answer": "CPU stands for Central Processing Unit."
+    }
+]
