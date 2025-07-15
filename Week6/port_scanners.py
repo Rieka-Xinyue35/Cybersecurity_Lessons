@@ -9,8 +9,8 @@ for port in list_of_ports:
     scanner_socket.settimeout(1)
     scanned_port = scanner_socket.connect_ex((target_ip_address,port))
     if scanned_port == 0:
-        print(f"Port {port} is Opened")
+         print(f"Port {port} is Opened")
     else:
         print(f"Port {port} is Closed")
 
-scanner_socket.close()
+    scanner_socket.close()
